@@ -1,0 +1,12 @@
+ketan	12345	A
+cust	cust	C
+police	police	P
+cust2	cust2	C
+cust3	cust3	C
+cust4	cust4	C
+cust5	cust5	C
+cust7	cust7	C
+cust8	cust8	C
+cust9	cust9	C
+cust10	cust10	C
+admin	admin	A
