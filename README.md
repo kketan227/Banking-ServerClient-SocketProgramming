@@ -48,7 +48,7 @@ different role.
 _**Other detailed comments are given inline where necessary in each of the files**_
 
 ## To run the application
-First run the server side and give a required port number for the server application to bind to and listen for incoming clients from the client side application. The txt files remain in the server side and should not be given access to the clients. 
+First run the server side and give a required port number for the server application to bind to and listen for incoming clients from the client side application. The txt files remain in the server side and should not be given access to the clients.   
 The client then runs the application and given the required ip address of the server and the open listening port of the server to connect to from this client application. After which the application itself describes and gives all the required options and continues to work.  
 
 ## Predifined users
